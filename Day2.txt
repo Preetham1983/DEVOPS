@@ -1,0 +1,242 @@
+🚀 Day 2 - DevOps Learning
+
+📘 Topics Covered
+
+Today, I explored the Software Development Life Cycle (SDLC), understood how companies follow it as a standard process, learned about various roles in a software development team, and got hands-on experience with Jira for project management. I also learned about Agile methodologies like Scrum, Sprints, Stories, and Backlogs.
+
+🧩 1️⃣ Software Development Life Cycle (SDLC)
+
+The SDLC defines a structured process that software companies follow to design, develop, test, and deploy high-quality software.
+It ensures systematic development, cost efficiency, better quality, and faster delivery.
+
+🔄 SDLC Phases Explained:
+1. Requirement Gathering & Analysis
+
+Business Analysts and Product Owners interact with clients or stakeholders to understand what the customer wants.
+
+All functional and non-functional requirements are gathered and documented.
+
+Example: A client wants an online food delivery app. Requirements include:
+
+Customer login and registration
+
+Menu display
+
+Online payment integration
+
+Order tracking
+
+2. System Design
+
+Software Architects design the overall architecture of the system.
+
+They decide what technologies to use, database design, and system components.
+
+Example: Choosing React for frontend, Spring Boot for backend, and MySQL as the database.
+
+3. Development (Implementation)
+
+Developers start writing code based on design documents and requirements.
+
+Tasks are divided into smaller modules or stories for efficient teamwork.
+
+Example: One team develops the user authentication module while another handles the payment gateway.
+
+4. Testing
+
+QA (Quality Assurance) Engineers test the application to ensure it works correctly and meets requirements.
+
+They perform:
+
+Unit Testing
+
+Integration Testing
+
+Regression Testing
+
+User Acceptance Testing (UAT)
+
+Example: Testing whether a user can log in successfully with valid credentials.
+
+5. Deployment
+
+After successful testing, the code is deployed to the production environment.
+
+DevOps engineers handle CI/CD pipelines, server configurations, and monitoring tools to ensure smooth deployment.
+
+Example: Using Jenkins or GitHub Actions to automate deployment to AWS.
+
+6. Maintenance
+
+Post-deployment, the team monitors performance and fixes bugs or adds new features as needed.
+
+Example: Fixing a crash in the payment module reported by users after release.
+
+👥 2️⃣ Roles in a Company (Software Development Team)
+
+Each role plays a critical part in ensuring project success. Let’s break them down 👇
+
+🧠 Business Analyst (BA)
+
+Acts as a bridge between business stakeholders and the development team.
+
+Collects and documents business requirements.
+
+Example: The BA talks to the client to understand they want a “real-time delivery tracking” feature and translates that into detailed system requirements for developers.
+
+🧭 Product Manager (PM)
+
+Focuses on what product to build and why.
+
+Manages the product roadmap, aligns with company goals, and ensures the product meets business objectives.
+
+Example: Decides that the next release should focus on improving customer retention features.
+
+📋 Product Owner (PO)
+
+Works closely with the development team.
+
+Breaks high-level requirements into Epics and Stories that developers can implement.
+
+Example:
+
+Epic: “User Authentication System”
+
+Stories:
+
+“User can register with email”
+
+“User can reset password”
+
+🧱 Software Architect
+
+Designs the system architecture, ensuring scalability, reliability, and performance.
+
+Example: Decides to use microservices architecture to handle different modules independently.
+
+💻 Developers (Frontend & Backend)
+
+Responsible for writing and maintaining the code.
+
+Frontend developers focus on UI/UX, Backend developers handle logic and database operations.
+
+Example: Frontend dev builds the signup page; Backend dev creates APIs for login and data storage.
+
+🧪 QA / Test Engineers
+
+Test the application and report bugs.
+
+Ensure that each release is stable and meets quality standards.
+
+Example: Creating test cases for different login scenarios to ensure security.
+
+🗄️ Database Administrator (DBA)
+
+Manages database structure, backups, and performance.
+
+Example: Ensures the MySQL database is optimized and prevents data loss during crashes.
+
+⚙️ DevOps Engineer
+
+Bridges development and operations.
+
+Automates deployment, manages servers, CI/CD pipelines, and cloud infrastructure.
+
+Example: Configures Jenkins pipeline to deploy code automatically to AWS after every commit.
+
+🤝 3️⃣ Scrum Team and DevOps Integration
+
+A Scrum Team usually consists of:
+
+Product Owner
+
+Scrum Master
+
+Developers
+
+Testers
+
+They work in Sprints (typically 2 weeks) to deliver small, functional increments of the product.
+
+DevOps extends this by integrating continuous delivery and automation into the process.
+
+Example:
+
+Developers push code → Automated build triggers → Test cases run → If passed, auto-deployment happens → Monitoring starts.
+
+This ensures faster delivery, fewer manual errors, and continuous improvement.
+
+🧭 4️⃣ Project Management Tools – Jira
+
+Jira is a powerful tool used for Agile project management.
+
+You can create:
+
+Epics: Large features or goals (e.g., “User Management System”)
+
+Stories: Smaller tasks under Epics (e.g., “Add Forgot Password Feature”)
+
+Tasks & Subtasks: Even smaller units for specific actions.
+
+Tracks progress using boards, backlogs, and sprints.
+
+Example:
+You log into Jira → Create a project → Add stories like:
+
+“Design Login UI”
+
+“Integrate Backend API”
+
+“Test User Login Flow”
+
+You can move these stories across stages like:
+
+To Do → In Progress → Testing → Done
+
+🌀 5️⃣ Agile, Scrum, Sprints & Backlogs
+⚡ Agile
+
+A methodology promoting iterative development and continuous feedback instead of a one-time release.
+
+🧩 Scrum
+
+An Agile framework that breaks work into short cycles called Sprints (usually 1–2 weeks).
+
+🕐 Sprint
+
+A fixed time period to complete specific stories or features.
+
+📚 Backlog
+
+A list of all pending work or features that need to be implemented.
+
+Example:
+In a 2-week sprint, your backlog might include:
+
+Design UI for dashboard
+
+Create user authentication API
+
+Perform testing on login module
+
+💡 6️⃣ What I Did Practically
+
+Logged into Jira and explored how tasks, stories, and backlogs are managed.
+
+Understood how Scrum meetings, sprint planning, and review work.
+
+Explored Spring briefly to understand its role in backend development in DevOps.
+
+Observed how DevOps aligns development, testing, and deployment in one continuous process.
+
+🧠 7️⃣ Key Takeaways
+
+SDLC provides a structured process for software development.
+
+Every team member has a distinct yet interconnected role.
+
+Agile and Scrum bring flexibility and faster delivery.
+
+Jira is essential for managing projects efficiently.
+
+DevOps bridges development and operations for smoother workflows.
