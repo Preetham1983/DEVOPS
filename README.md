@@ -200,14 +200,22 @@ npm run build
 | **Backend**  | Vercel        | Deployed using `vercel` and `.env` file |
 | **Database** | MongoDB Atlas | Stores user-submitted repos & insights  |
 
+
 ---
 
-## 🧑‍💻 **Author**
+## 🧑‍💻 **Team Members**
 
-**Preetham Reddy Bandi**
-📍 Hyderabad, India
-💼 B.Tech — Keshav Memorial College of Engineering
-🔗 Passionate about Cloud, AI, and Full-Stack Development
+| Name                     | Role                             | Description                                                                                                        |
+| ------------------------ | -------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| **Preetham Reddy Bandi** | Team Lead / Full-Stack Developer | Focused on backend integration with Gemini 2.5 Flash, AI pipeline design, and frontend deployment via AWS Amplify. |
+| **Naveen**               | Backend Developer                | Worked on Flask backend logic, MongoDB Atlas integration, and API endpoints for repository analysis.               |
+| **Akshit**               | Frontend Developer               | Designed and implemented responsive React components, UI pages, and handled state management.                      |
+| **Smaran**               | Research & Integration Engineer  | Focused on AI model integration, repo analytics workflows, and performance optimization.                           |
+
+📍 **Location:** Hyderabad, India
+🎓 **Institution:** Keshav Memorial College of Engineering
+💡 **Team Focus:** Cloud, Artificial Intelligence, and Full-Stack Development
+
 
 ---
 
