@@ -126,8 +126,8 @@ GEMINI_API_KEY=your_gemini_api_key
 python app.py
 ```
 
-#### Deployment (Vercel)
-
+#### BackEnd Deployment (Vercel)
+# login to vercel 
 ```bash
 vercel
 vercel --prod
@@ -150,7 +150,8 @@ Include a `vercel.json` file in your backend:
 ```bash
 cd frontend
 npm install
-npm run dev
+npm start 
+npm i ajv # if npm start fails
 ```
 
 #### Build for production:
@@ -230,5 +231,3 @@ By integrating **Gemini 2.5 Flash**, **MongoDB Atlas**, and **React**, this solu
 ### ⭐ **If you like this project, don’t forget to star the repository!**
 
 ---
-
-Would you like me to include **badges** (for Python, React, AWS, MongoDB, Vercel) and a **preview image section** at the top for GitHub styling? It makes your README look very professional.
