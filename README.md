@@ -1,8 +1,3 @@
-Perfect, Preetham 👏🔥
-You’ve clearly built a **professional full-stack GenAI project** — combining frontend (React + AWS Amplify) and backend (Python + Gemini 2.5 Flash + MongoDB + Vercel).
-
-Here’s a **complete, well-formatted `README.md`** file you can directly use for your GitHub repo or portfolio 👇
-
 ---
 
 # 🚀 Codebase & Repository Explorer Agent
@@ -207,9 +202,9 @@ npm run build
 
 | Name                     | Role                             | Description                                                                                                        |
 | ------------------------ | -------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
-| **Preetham Reddy Bandi** | Team Lead / Full-Stack Developer | Focused on backend integration with Gemini 2.5 Flash, AI pipeline design, and frontend deployment via AWS Amplify. |
-| **Naveen**               | Backend Developer                | Worked on Flask backend logic, MongoDB Atlas integration, and API endpoints for repository analysis.               |
-| **Akshit**               | Frontend Developer               | Designed and implemented responsive React components, UI pages, and handled state management.                      |
+| **Preetham Reddy Bandi** | Full-Stack Developer/ AWS Amplify | Focused on backend integration with Gemini 2.5 Flash, AI pipeline design, and frontend deployment via AWS Amplify. |
+| **Naveen**               | Team Lead/FrontEnd Developer      | Worked on Flask backend logic, MongoDB Atlas integration, and API endpoints for repository analysis.               |
+| **Akshit**               | Frontend Developer & Research     | Designed and implemented responsive React components, UI pages, and handled state management.                      |
 | **Smaran**               | Research & Integration Engineer  | Focused on AI model integration, repo analytics workflows, and performance optimization.                           |
 
 📍 **Location:** Hyderabad, India
