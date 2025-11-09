@@ -80,11 +80,17 @@ repo-explorer/
 ## 🧾 **Features**
 
 ✅ Analyze GitHub repositories by simply pasting a repo URL
+
 ✅ Automatically extracts dependencies, commits, contributors, and activity logs
+
 ✅ Provides AI-generated summaries and code insights using Gemini 2.5 Flash
+
 ✅ Stores analyzed repositories in **MongoDB Atlas**
+
 ✅ Includes **“Ask Questions About Repo”** — a feature for interactive AI Q&A
+
 ✅ Frontend hosted on **AWS Amplify**, backend deployed via **Vercel**
+
 ✅ Clean and modular folder structure
 
 ---
