@@ -1,6 +1,6 @@
 ---
 
-# 🚀 Codebase & Repository Explorer Agent
+# 🚀 CodeDrip
 
 ### 🧩 Track 2 — AI-Powered Repository Analysis
 
